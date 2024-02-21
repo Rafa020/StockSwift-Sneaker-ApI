@@ -16,6 +16,9 @@ npm install
 to start the api:
 npm start
 
+helpful video on hwo to use nodejs in a framework such as react:
+https://youtu.be/w3vs4a03y3I?si=R9espNFXuQnO6kod
+
  # 1. / (Default path you get no response)
 Method: GET
 Description: Default route
