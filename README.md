@@ -5,7 +5,7 @@
 </p>
 
 Sneaker Api created using the Sneaks-Api package.
-This api is great for practicing the implementation of backend in your frontend project.
+This api is great for practicing the implementation of backend in your frontend project. v2.0 will have major improvements and more features
 
 # Installation:
 
