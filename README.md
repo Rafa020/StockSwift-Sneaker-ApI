@@ -1,4 +1,4 @@
-# StockSwift-Sneaker-ApI Documentation
+# ⚛️ StockSwift-Sneaker-ApI Documentation ⚛️
 
 <p align="center">
 <img src="./img/stockswift-logo.png"></img>
