@@ -1,9 +1,10 @@
 # StockSwift-Sneaker-ApI Documentation
 
+<p align="center">
 <img src="./img/stockswift-logo.png"></img>
+</p>
 
-# Sneaker Api created using the Sneaks-Api package
-
+Sneaker Api created using the Sneaks-Api package.
 This api is great for practicing the implementation of backend in your frontend project.
 
 # Installation:
