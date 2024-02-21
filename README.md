@@ -14,6 +14,7 @@ cd StockSwift-Sneaker-ApI
 npm install
 
 to start the api:
+cd api
 npm start
 
 helpful video on hwo to use nodejs in a framework such as react:
